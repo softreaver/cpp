@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515488757 source:c:\users\softr_000\onedrive\documents\projets c++\test2\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<utility>
+	<algorithm>
+

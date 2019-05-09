@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514969713 source:c:\users\softr_000\onedrive\documents\projets c++\jeu mot mystère\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+

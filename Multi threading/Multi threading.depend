@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516634797 source:c:\users\softr_000\onedrive\documents\projets c++\multi threading\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<iterator>
+	<string>
+

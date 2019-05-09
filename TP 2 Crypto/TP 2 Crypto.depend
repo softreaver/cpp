@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517049781 source:c:\users\softr_000\onedrive\documents\projets c++\tp 2 crypto\main.cpp
+	<iostream>
+	<string>
+	<iterator>
+	<algorithm>
+	<map>
+	<fstream>
+	<utility>
+

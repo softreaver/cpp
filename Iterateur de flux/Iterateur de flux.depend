@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515246054 source:c:\users\softr_000\onedrive\documents\projets c++\iterateur de flux\main.cpp
+	<iostream>
+	<string>
+	<iterator>
+	<fstream>
+

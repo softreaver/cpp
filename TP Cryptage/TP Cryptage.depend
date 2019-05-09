@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515335892 source:c:\users\softr_000\onedrive\documents\projets c++\tp cryptage\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<iterator>
+	<cctype>
+

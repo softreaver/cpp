@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514468072 source:c:\users\softr_000\onedrive\documents\projets c++\operator surchargé\main.cpp
+	<iostream>
+	"Duree.h"
+
+1514468415 source:c:\users\softr_000\onedrive\documents\projets c++\operator surchargé\duree.cpp
+	"Duree.h"
+
+1514468387 c:\users\softr_000\onedrive\documents\projets c++\operator surchargé\duree.h
+	<iostream>
+

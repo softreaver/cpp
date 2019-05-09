@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517256255 source:c:\users\softr_000\onedrive\documents\projets c++\fonction multi arg + move semantic\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<utility>
+	<initializer_list>
+

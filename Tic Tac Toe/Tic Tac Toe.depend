@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1517606224 source:c:\users\softr_000\onedrive\documents\projets c++\tic tac toe\grille.cpp
+	"Grille.h"
+	<string>
+	<cstdlib>
+	<cmath>
+	<iostream>
+	<algorithm>
+
+1517589421 c:\users\softr_000\onedrive\documents\projets c++\tic tac toe\grille.h
+	<string>
+
+1517605106 source:c:\users\softr_000\onedrive\documents\projets c++\tic tac toe\joueurs.cpp
+	"Joueurs.h"
+
+1517605190 source:c:\users\softr_000\onedrive\documents\projets c++\tic tac toe\main.cpp
+	<iostream>
+	<string>
+	"Grille.h"
+	"Joueurs.h"
+	"conio.h"
+
+1517524852 c:\users\softr_000\onedrive\documents\projets c++\tic tac toe\joueurs.h
+	<string>
+	<iostream>
+	"Grille.h"
+	"windows.h"
+	"conio.h"
+

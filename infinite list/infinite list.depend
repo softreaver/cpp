@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520617746 source:c:\users\softr_000\onedrive\documents\projets c++\infinite list\main.cpp
+	<iostream>
+	<cassert>
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1516869176 source:c:\users\softr_000\onedrive\documents\projets c++\rpg\main.cpp
+	<iostream>
+	"Personnage.h"
+	"Magicien.h"
+	"Guerrier.h"
+	"Arme.h"
+	"windows.h"
+
+1516869151 c:\users\softr_000\onedrive\documents\projets c++\rpg\personnage.h
+	<string>
+	"Arme.h"
+
+1514383168 c:\users\softr_000\onedrive\documents\projets c++\rpg\personnage.cpp
+	"Personnage.h"
+
+1514382856 source:c:\users\softr_000\onedrive\documents\projets c++\rpg\test.cpp
+
+1514386533 c:\users\softr_000\onedrive\documents\projets c++\rpg\arme.h
+	<iostream>
+	<string>
+
+1516869177 source:c:\users\softr_000\onedrive\documents\projets c++\rpg\personnage.cpp
+	"Personnage.h"
+
+1514806708 source:c:\users\softr_000\onedrive\documents\projets c++\rpg\arme.cpp
+	"Arme.h"
+
+1515146174 source:c:\users\softr_000\onedrive\documents\projets c++\rpg\magicien.cpp
+	"Magicien.h"
+
+1515144081 c:\users\softr_000\onedrive\documents\projets c++\rpg\magicien.h
+	"Personnage.h"
+	"Guerrier.h"
+	"Arme.h"
+	<string>
+	<iostream>
+	"windows.h"
+
+1515144081 source:c:\users\softr_000\onedrive\documents\projets c++\rpg\guerrier.cpp
+	"Guerrier.h"
+	<iostream>
+
+1515144081 c:\users\softr_000\onedrive\documents\projets c++\rpg\guerrier.h
+	"Personnage.h"
+	"Magicien.h"
+	"Arme.h"
+	<string>
+	<iostream>
+	"windows.h"
+
