@@ -1,0 +1,31 @@
+hello,
+hello,
+hello,
+hello,
+thread
+thread
+thread
+thread
+principal 1000
+fils 1010
+principal 3010
+fils 3030
+
+CONCLUSION : 
+Etant donnée que les deux threads fonctionne en parrallèle il y a des accès concurants qui
+se font au niveau de la sortie standard. C'est pour cela que nous observons un mélange dans les 
+messages de sorties.
+
+
+RESULTAT OBTENUS SUR MA MACHINE :
+hello, thread principal 1000
+hello, thread principal 3010
+hello, thread fils 1010
+hello, thread fils 3030
+
+Apparement sur ma machine, le thread principale à le temps de finir l'execution de tous les printf avant
+que le thread ne puisse démarrer la fonction 'addition'.
+
+En mettant un soixantaine de printf dans le programme principale j'arrive à faire en sorte que le thread de addition
+print les messages vers le milieu (environ 40 printf) du fil d'execution principal.
+On peut conclure que l'appel system pthread_create est relativement long.
